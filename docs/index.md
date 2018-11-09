@@ -8,5 +8,5 @@ Welcome to the InSpectre Portable Homepage! Here you will find resources and dow
 - This app's [help.html](https://github.com/JarlPenguin/InSpectrePortable/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/InSpectrePortable/releases/tag/0.0.6675.794)
+- [Latest Version](https://github.com/JarlPenguin/InSpectrePortable/releases/download/0.0.6675.794/InSpectrePortable_0.0.6675.8_Dev_Test_4_English_online.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/InSpectrePortable/releases)

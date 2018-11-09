@@ -7,4 +7,4 @@ Welcome to the InSpectre Portable Homepage! Here you will find resources and dow
 ## Downloads
 |![Latest Version](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/latest.png)|![GitHub](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/previous.png)|
 |-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|[Latest Version](https://github.com/JarlPenguin/InSpectrePortable/releases/tag/0.0.6675.794)|[Legacy Versions](https://github.com/JarlPenguin/InSpectrePortable/releases)|
+|[Latest Version](https://github.com/JarlPenguin/InSpectrePortable/releases/download/0.0.6675.794/InSpectrePortable_0.0.6675.8_Dev_Test_4_English_online.paf.exe)|[Legacy Versions](https://github.com/JarlPenguin/InSpectrePortable/releases)|
